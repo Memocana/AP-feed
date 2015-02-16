@@ -4,7 +4,7 @@
       <Content type="html">
         <![CDATA[
 
-          <iframe id='iframe' src='http://memocana.github.io/AP-feed/apMarkupMethod.html' scrolling='no' frameborder='0' width='1178' height='300'></iframe>
+          <iframe id='iframe' src='http://memocana.github.io/AP-feed/apMarkupMethod.html' scrolling='no' frameborder='0' width='1178' height='500'></iframe>
                     
         ]]>
       </Content>
